@@ -1,0 +1,4 @@
+<resources>
+    <string name="my_library_name">My Library</string>
+    <string name="my_library_hello">Hello from library module!</string>
+</resources>
